@@ -1,0 +1,172 @@
+# ================================================================
+# Luna AI 知识库 - URL来源清单
+# ================================================================
+# 整理：Mr.Chen
+# 更新：2025-12-30
+# 总计：55+ 高价值资源
+# ================================================================
+
+# ================================================================
+# === AI Agent 框架与技术文档 (2025最新) ===
+# ================================================================
+
+# Anthropic 官方
+https://www.anthropic.com/research/building-effective-agents
+https://www.anthropic.com/engineering/code-execution-with-mcp
+https://www.anthropic.com/news/model-context-protocol
+https://docs.anthropic.com/en/docs/build-with-claude/prompt-caching
+https://docs.anthropic.com/en/docs/build-with-claude/tool-use
+
+# MCP协议（Model Context Protocol）
+https://modelcontextprotocol.io/introduction
+https://modelcontextprotocol.io/quickstart
+https://modelcontextprotocol.io/specification/2025-11-25
+https://github.com/modelcontextprotocol/modelcontextprotocol
+https://blog.modelcontextprotocol.io/posts/2025-11-25-first-mcp-anniversary/
+
+# LangChain 生态
+https://python.langchain.com/docs/introduction/
+https://python.langchain.com/docs/concepts/agents/
+https://python.langchain.com/docs/how_to/agent_executor/
+https://langchain-ai.github.io/langgraph/
+https://www.langchain.com/state-of-agent-engineering
+https://github.com/langchain-ai/deepagents
+
+# OpenAI
+https://platform.openai.com/docs/guides/prompt-engineering
+https://platform.openai.com/docs/guides/function-calling
+https://platform.openai.com/docs/assistants/overview
+https://cookbook.openai.com/
+
+# CrewAI
+https://docs.crewai.com/introduction
+https://docs.crewai.com/concepts/agents
+https://docs.crewai.com/concepts/tasks
+https://docs.crewai.com/concepts/crews
+
+# LlamaIndex
+https://docs.llamaindex.ai/en/stable/
+https://docs.llamaindex.ai/en/stable/understanding/agent/
+https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/
+
+# 2025年新兴框架
+https://huggingface.co/docs/smolagents/
+https://google.github.io/adk-docs/
+https://github.com/ag2ai/ag2
+
+# Prompt Engineering 最新指南
+https://www.promptingguide.ai/
+https://claude.com/blog/best-practices-for-prompt-engineering
+https://www.lakera.ai/blog/prompt-engineering-guide
+https://www.ibm.com/think/prompt-engineering
+
+# ================================================================
+# === 产品设计与UX案例库 (心理学+增长) ===
+# ================================================================
+
+# Growth.Design（顶级UX心理学案例）
+https://growth.design/case-studies
+https://growth.design/case-studies/amazon-purchase-ux
+https://growth.design/case-studies/landing-page-ux-psychology
+https://growth.design/psychology
+
+# 其他UX案例库
+https://www.casestudy.club/case-studies
+https://builtformars.com/
+https://goodui.org/
+https://lawsofux.com/
+
+# ================================================================
+# === 销售与商业案例库 ===
+# ================================================================
+
+# HubSpot
+https://www.hubspot.com/case-studies
+https://blog.hubspot.com/sales/hubspot-sales-strategy-report
+https://blog.hubspot.com/sales/sales-closing-techniques-and-why-they-work
+https://blog.hubspot.com/sales/how-to-overcome-objections
+
+# Gong（销售对话智能）
+https://www.gong.io/case-studies/
+https://www.gong.io/blog/discovery-call-questions/
+https://www.gong.io/blog/sales-pitch/
+
+# Salesforce
+https://www.salesforce.com/customer-success-stories/
+https://www.salesforce.com/resources/articles/sales-techniques/
+
+# ================================================================
+# === 增长黑客与转化优化 ===
+# ================================================================
+
+https://www.reallygoodemails.com/
+https://www.growthhackers.com/growth-studies
+https://cxl.com/blog/
+
+# ================================================================
+# === 心理学与行为科学 ===
+# ================================================================
+
+https://www.behavioraleconomics.com/resources/
+https://thedecisionlab.com/biases
+https://fs.blog/mental-models/
+
+# ================================================================
+# === 2025 H2 新增 - AI Agent框架 ===
+# ================================================================
+
+https://www.anthropic.com/news/claude-opus-4-5
+https://www.anthropic.com/news/claude-sonnet-4-5
+https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation
+https://www.shakudo.io/blog/top-9-ai-agent-frameworks
+https://machinelearningmastery.com/7-ai-agent-frameworks-for-machine-learning-workflows-in-2025/
+https://www.langflow.org/blog/the-complete-guide-to-choosing-an-ai-agent-framework-in-2025
+https://elbruno.com/2025/12/01/introducing-the-microsoft-agent-framework-a-dev-friendly-recap/
+
+# ================================================================
+# === 2025 H2 新增 - MCP协议 ===
+# ================================================================
+
+http://blog.modelcontextprotocol.io/posts/2025-11-25-first-mcp-anniversary/
+https://modelcontextprotocol.io/specification/2025-11-25
+https://aaronparecki.com/2025/11/25/1/mcp-authorization-spec-update
+https://den.dev/blog/wrapping-up-the-year-of-mcp/
+
+# ================================================================
+# === 2025 H2 新增 - LangGraph ===
+# ================================================================
+
+https://www.langchain.com/langgraph
+https://blog.langchain.com/langgraph-multi-agent-workflows/
+https://www.datacamp.com/tutorial/langgraph-agents
+https://blog.futuresmart.ai/multi-agent-system-with-langgraph
+
+# ================================================================
+# === 2025 H2 新增 - Prompt Engineering ===
+# ================================================================
+
+https://claude.com/blog/best-practices-for-prompt-engineering
+https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/claude-4-best-practices
+https://www.lakera.ai/blog/prompt-engineering-guide
+https://promptbuilder.cc/blog/prompt-engineering-best-practices-2025
+https://www.ibm.com/think/prompt-engineering
+
+# ================================================================
+# === 2025 H2 新增 - 销售/转化案例 ===
+# ================================================================
+
+https://persana.ai/blogs/ai-sales-case-studies
+https://unbounce.com/conversion-rate-optimization/cro-case-studies/
+https://lineardesign.com/blog/conversion-rate-optimization-case-studies/
+https://superagi.com/case-study-how-ai-driven-sales-automation-increased-conversion-rates-by-20-in-2025/
+https://www.fetchfunnel.com/conversion-optimization-case-studies/
+
+# ================================================================
+# === 已处理URL记录 ===
+# ================================================================
+# [2025-12-30] https://www.anthropic.com/research/building-effective-agents
+#              → 01-理论库/AI工程/构建有效Agent系统.md
+# [2025-12-30] https://blog.hubspot.com/sales/sales-closing-techniques-and-why-they-work
+#              → 01-理论库/沟通说服/销售成交的心理学原理.md
+# [2025-12-30] https://growth.design/case-studies/amazon-purchase-ux
+#              → 02-案例库/用户转化案例/Amazon购买体验优化.md
