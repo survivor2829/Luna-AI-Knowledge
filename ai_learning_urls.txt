@@ -3,7 +3,7 @@
 # ================================================================
 # 整理：Mr.Chen
 # 更新：2025-12-30
-# 总计：55+ 高价值资源
+# 总计：80+ 高价值资源
 # ================================================================
 
 # ================================================================
@@ -160,6 +160,45 @@ https://unbounce.com/conversion-rate-optimization/cro-case-studies/
 https://lineardesign.com/blog/conversion-rate-optimization-case-studies/
 https://superagi.com/case-study-how-ai-driven-sales-automation-increased-conversion-rates-by-20-in-2025/
 https://www.fetchfunnel.com/conversion-optimization-case-studies/
+
+# ================================================================
+# === 2025 AI Agent企业案例 (新增) ===
+# ================================================================
+
+https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai
+https://skywork.ai/blog/ai-agents-case-studies-2025/
+https://www.creolestudios.com/real-world-ai-agent-case-studies/
+https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders
+https://www.ai21.com/knowledge/ai-agent-use-cases/
+https://tkxel.com/blog/ai-agents-use-cases-2025/
+https://venturebeat.com/technology/while-everyone-talks-about-an-ai-bubble-salesforce-quietly-added-6-000
+https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/
+https://www.multimodal.dev/post/useful-ai-agent-case-studies
+
+# ================================================================
+# === 2025 行为经济学/营销心理学 (新增) ===
+# ================================================================
+
+https://econreview.studentorg.berkeley.edu/applying-behavioral-economics-to-marketing-policy-and-beyond/
+https://www.renascence.io/journal/behavioral-economics-and-marketing-strategy-insights-that-drive-results
+https://www.academyofcontinuingeducation.com/blog/from-theory-to-practice-how-behavioral-economics-is-reshaping-marketing
+https://www.digivate.com/blog/digital-marketing/behavioural-economics-marketing/
+https://www.socialtargeter.com/blogs/behavioral-economics-in-marketing-case-studies-of-campaigns-that-changed-consumer-behavior
+https://blog.mindforceresearch.com/behavioral-economics-the-hidden-forces-driving-consumer-decisions/
+https://profiletree.com/behavioural-economics-in-digital-marketing/
+https://winsomemarketing.com/winsome-marketing/behavioral-economics-the-science-behind-effective-marketing
+
+# ================================================================
+# === 2025 RAG最佳实践 (新增) ===
+# ================================================================
+
+https://www.edenai.co/post/the-2025-guide-to-retrieval-augmented-generation-rag
+https://www.braintrust.dev/articles/best-rag-evaluation-tools
+https://www.chitika.com/retrieval-augmented-generation-rag-the-definitive-guide-2025/
+https://towardsdatascience.com/six-lessons-learned-building-rag-systems-in-production/
+https://www.promptingguide.ai/research/rag
+https://orq.ai/blog/rag-evaluation
+https://tomoro.ai/insights/retrieval-augmented-generation-in-2025
 
 # ================================================================
 # === 已处理URL记录 ===
