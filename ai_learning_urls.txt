@@ -201,6 +201,33 @@ https://orq.ai/blog/rag-evaluation
 https://tomoro.ai/insights/retrieval-augmented-generation-in-2025
 
 # ================================================================
+# === Hook模型/成瘾性设计 (新增) ===
+# ================================================================
+
+https://www.nirandfar.com/hooked/
+https://www.nirandfar.com/how-to-manufacture-desire/
+https://amplitude.com/blog/the-hook-model
+https://business-explained.com/blog/hook-model/
+https://dovetail.com/product-development/what-is-the-hook-model/
+
+# ================================================================
+# === AI知识库设计 (新增) ===
+# ================================================================
+
+https://www.zendesk.com/blog/knowledge-base-chatbots/
+https://www.zendesk.com/service/help-center/ai-knowledge-base/
+https://quickchat.ai/post/chatbot-knowledge-base-guide
+https://www.eesel.ai/blog/knowledge-base-management
+
+# ================================================================
+# === 避免AI废话 (新增) ===
+# ================================================================
+
+https://workhub.ai/stop-random-ai-chatbot-answers/
+https://www.parnidia.com/blog/prevent-ai-chatbots-from-giving-false-answers
+https://www.chatbase.co/blog/ai-chatbot-vs-ai-agent
+
+# ================================================================
 # === 已处理URL记录 ===
 # ================================================================
 # [2025-12-30] https://www.anthropic.com/research/building-effective-agents
